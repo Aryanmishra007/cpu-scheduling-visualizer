@@ -1,5 +1,7 @@
 # CPU Scheduling Visualizer and Performance Analyzer
 
+**[Open the live CPU Scheduling Visualizer](https://aryanmishra-cpu-scheduling-visualizer.streamlit.app/)**
+
 A Streamlit simulator for FCFS, non-preemptive SJF, SRTF, both priority variants, and Round Robin. Edit the workload, generate a random case, or load the included CSV. The dashboard shows the CPU timeline and context switches, compares performance on the same input, and exports timestamped CSV results.
 
 ## Run on Windows
